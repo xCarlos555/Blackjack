@@ -1,39 +1,39 @@
 # Blackjack
 
-Um jogo de **Blackjack** desenvolvido em **Python**.
+A **Blackjack** game developed in **Python**.
 
-## Como configurar e executar
+## How to set up and run
 
-### 1. Instalar Miniconda
-Se ainda não tens o Miniconda instalado, faz o download em:  
+### 1. Install Miniconda
+If you don’t have Miniconda installed yet, download it from:  
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  
-Escolhe a versão para o teu sistema operativo (Windows/Linux/Mac).
+Choose the version for your operating system (Windows/Linux/Mac).
 
 ---
 
-### 2. Criar e ativar o ambiente virtual
+### 2. Create and activate the virtual environment
 
-Cria um novo ambiente chamado `blackjack` com **Python 3.9**:
+Create a new environment named `blackjack` with **Python 3.9**:
 ```bash
 conda create -n blackjack python=3.9
 ```
 
-Depois ativa o ambiente:
+Then activate the environment:
 ```bash
 conda activate blackjack
 ```
 
-Garante que estás na pasta raiz do projeto, onde está o ficheiro requirements.txt, e instala as dependências:
+Make sure you are in the project’s root folder, where the requirements.txt file is located, and install the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-Com o ambiente blackjack ativo, corre o jogo:
+With the blackjack environment active, run the game:
 ```bash
 python main.py
 ```
 
-Quando terminares, podes sair do ambiente virtual com:
+When you’re done, you can exit the virtual environment with:
 ```bash
 conda deactivate
 ```
