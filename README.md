@@ -4,6 +4,10 @@ A **Blackjack** game developed in **Python**.
 
 ## How to set up and run
 
+This guide provides a way to have everything properly set up and ready to use.  
+For this example, we are using **Miniconda** to manage the virtual environment,  
+but you can use any other tool you prefer (e.g., Anaconda or Python venv).
+
 ### 1. Install Miniconda
 If you don’t have Miniconda installed yet, download it from:  
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  
