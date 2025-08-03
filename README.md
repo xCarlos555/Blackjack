@@ -37,3 +37,11 @@ When you’re done, you can exit the virtual environment with:
 ```bash
 conda deactivate
 ```
+
+### 3. Delete the virtual environment
+
+If you want to remove the blackjack environment completely:
+
+```bash
+conda env remove -n blackjack
+```
