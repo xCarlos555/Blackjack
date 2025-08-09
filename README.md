@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ---
 
-With the blackjack environment active, run the game:
+Run the game:
 ```bash
 python main.py
 ```
