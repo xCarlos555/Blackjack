@@ -1,6 +1,7 @@
 # Blackjack
 
 A **Blackjack** game developed in **Python**.
+Play against the dealer, follow the classic rules, and try to reach 21 without going over.
 
 ---
 
